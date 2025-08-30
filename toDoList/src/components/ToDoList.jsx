@@ -21,8 +21,8 @@ export const ToDoList = () => {
   const handleAdd = (text) =>
     setToDos([...toDos, { text, completed: false, id: Date.now() }]);
   const handleDelete = (id) => setToDos(toDos.filter((item) => item.id != id));
-  const handleCopletedField = (id) => {
-    toDos.map((item) => {
+  const handleCompletedField = (id) => {
+    toDos.forEach((item) => {
       if (item.id == id) {
         item.completed = !item.completed;
       }
@@ -45,7 +45,7 @@ export const ToDoList = () => {
       <List
         items={toDos}
         onDelete={handleDelete}
-        onCompleted={handleCopletedField}
+        onCompleted={handleCompletedField}
         filter={currentFilter}
       />
     </>
