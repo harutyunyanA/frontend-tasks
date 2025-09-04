@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "Tiko",
+      "age": 42
+    },
+    {
+      "id": "102",
+      "name": "Mara",
+      "age": 35
+    },
+    {
+      "id": "103",
+      "name": "Leo",
+      "age": 29
+    },
+    {
+      "id": "104",
+      "name": "Anna",
+      "age": 50
+    },
+    {
+      "id": "105",
+      "name": "Sam",
+      "age": 27
+    },
+    {
+      "id": "106",
+      "name": "Nora",
+      "age": 31
+    },
+    {
+      "id": "107",
+      "name": "David",
+      "age": 46
+    },
+    {
+      "id": "108",
+      "name": "Ella",
+      "age": 22
+    },
+    {
+      "id": "109",
+      "name": "Mark",
+      "age": 39
+    },
+    {
+      "id": "110",
+      "name": "Sofi",
+      "age": 28
+    }
+  ]
+}
