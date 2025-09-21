@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": "101",
+      "name": "John",
+      "age": 42,
+      "position": "middle",
+      "salary": 1800
+    },
+    {
+      "id": "102",
+      "age": 27,
+      "name": "Alice",
+      "position": "junior",
+      "salary": 900
+    },
+    {
+      "id": "103",
+      "age": 22,
+      "name": "Michael",
+      "position": "senior",
+      "salary": 3000
+    },
+    {
+      "id": "104",
+      "age": 29,
+      "name": "Emma",
+      "position": "middle",
+      "salary": 1900
+    },
+    {
+      "id": "105",
+      "age": 34,
+      "name": "David",
+      "position": "lead",
+      "salary": 3000
+    },
+    {
+      "id": "bd83",
+      "name": "Artyom",
+      "age": 27,
+      "position": "junior",
+      "salary": 800
+    }
+  ]
+}
